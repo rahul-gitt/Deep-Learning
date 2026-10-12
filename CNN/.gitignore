@@ -1,3 +1,2 @@
-
-CNN/mnist_train.csv
-CNN/mnist_test.csv
+mnist_train.csv
+mnist_test.csv
